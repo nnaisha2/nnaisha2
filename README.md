@@ -26,7 +26,7 @@ She/Her.
 
 ### ⚡ Fun fact: ...
 
-Despite my passion for tech, I’m a book fan and you can often find me reading or cheering for my favourite characters during my downtime!
+Despite my passion for tech, I’m a book fan and you can often find me reading fanfiction of my favourite characters during my downtime!
 
 ---
 Nnaisha2/Nnaisha2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
