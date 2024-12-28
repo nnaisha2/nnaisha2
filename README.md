@@ -6,7 +6,7 @@ I’m an aspiring software developer and student at a university in Bavaria, exc
  
 ### 👀 I’m interested in...
 
-Exploring different sectors of tech - especially Artificial Intelligence, Data Science, Full Stack Development, and Cybersecurity. I’m also interested in tech entrepreneurship!
+Exploring different sectors of tech especially Artificial Intelligence, Data Science, Full Stack Development, and Cybersecurity. I’m also interested in tech entrepreneurship!
 
 ### 🌱 I’m currently learning...
 
@@ -18,7 +18,7 @@ Open source projects related to web development, as well as any Data Science or 
 
 ### 📫 How to reach me...
 
-Feel free to connect with me on LinkedIn or send me an email at nchangaisha@gmail.com. 
+Feel free to connect with me on LinkedIn or send me an email at aishatounchang72@gmail.com. 
 
 ### 😄 Pronouns: ...
 
